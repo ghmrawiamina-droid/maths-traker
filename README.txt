@@ -4,3 +4,4 @@
    NEXT_PUBLIC_SUPABASE_URL = https://bbzbsthwcmxvrezmtuds.supabase.co
    NEXT_PUBLIC_SUPABASE_ANON_KEY = (المفتاح الكامل anon أو publishable)
 4) اضغطي Deploy.
+test
