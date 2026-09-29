@@ -1,0 +1,9 @@
+body{margin:0;font-family:system-ui,Tahoma,sans-serif;background:#f3f7fb;color:#14263d}
+.w{max-width:820px;margin:auto;padding:16px}
+.c{background:#fff;border:1.5px solid #d3deea;border-radius:10px;padding:16px;margin-bottom:14px}
+input,select,button{font:inherit;padding:8px 10px;border:1.5px solid #d3deea;border-radius:8px;margin:4px 0;max-width:100%}
+button{background:#1f5fae;color:#fff;border:0;cursor:pointer;font-weight:700}
+.chip{background:#fff;color:#14263d;border:1.5px solid #d3deea;border-radius:999px;margin:3px}
+.on{background:#1f5fae;color:#fff}
+.bar{height:10px;background:#dbe6f0;border-radius:5px}.bar i{display:block;height:100%;border-radius:5px}
+.row{display:flex;justify-content:space-between;gap:8px;border-top:1px solid #d3deea;padding:6px 0}
